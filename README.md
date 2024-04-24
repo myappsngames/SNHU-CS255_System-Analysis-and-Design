@@ -1,2 +1,2 @@
-# SNHU-CS255-Project-Two
-DriverPass Project
+# SNHU-CS255-Journal
+DriverPass
