@@ -1,4 +1,4 @@
-# SNHU CS255 Journal (DriverPass Project)
+# SNHU CS-255 Journal (DriverPass Project)
 DriverPass
 
 
