@@ -1,7 +1,9 @@
-# SNHU CS-255 Journal (DriverPass Project)
-DriverPass
+# SNHU CS-255: System Analysis and Design Journal (DriverPass Project)
+This portfolio showcases my work in System Analysis and Design, completed at Southern New Hampshire University. It features key artifacts from Projects 1 and 2: the business requirements document (BRD) and the system design document (SDD). These documents demonstrate my ability to:
+* Gather and Analyze Requirements: The BRD details my process of collecting and analyzing user needs to define the system's functionalities.
+* Translate Requirements into Design: The SDD showcases my ability to translate those requirements into a technical solution, outlining the system's architecture and components.
 
-
+# Reflection
 * Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
   
   * DriverPass, a driver education company, requires a modern system to manage their online and in-person training program. DriverPass wants their system to streamline the student driver experience by offering online registration, lesson scheduling, and progress tracking. DriverPass will allow a student driver to easily enroll online, choose a package that fits their needs, and schedule lessons at their convenience. The DriverPass system goes beyond student empowerment, equipping instructors and administrators with functionalities like lesson tracking and reporting.
