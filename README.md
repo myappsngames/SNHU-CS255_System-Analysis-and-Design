@@ -1,4 +1,4 @@
-# SNHU CS-255: System Analysis and Design Portfolio (DriverPass Project)
+## SNHU CS-255: System Analysis and Design Portfolio (DriverPass Project)
 This portfolio showcases my coursework from CS-255: System Analysis and Design taken at Southern New Hampshire University. Through two distinct projects tailored towards DriverPass, a comprehensive system designed to streamline driver training services, I honed my skills in both system analysis and design.
 
 **Project 1: Foundation for User Needs Gathering:** Focused on identifying user requirements through an interview transcript and data modeling. The knowledge gained from Project 1 directly translated into the creation of the business requirement document for DriverPass, allowing me to effectively identify critical user needs such as online registration, customizable lesson packages, flexible scheduling options, detailed lesson tracking, and secure user access control.
@@ -7,7 +7,7 @@ This portfolio showcases my coursework from CS-255: System Analysis and Design t
 
 By analyzing the interview data and completing both the business requirements document and the system design document, I gained a strong understanding of the Software Development Life Cycle (SDLC) and the importance of translating user needs into a technical solution.  
 
-# Reflection
+## Reflection
 
 ### Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
   
